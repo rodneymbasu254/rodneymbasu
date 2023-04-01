@@ -10,7 +10,7 @@
 
 <p align="center">
   <h3 align="right">Connect with me:</h3>
-  linkedin<a href="https://linkedin.com/in/rodney-mbasu-bb354b267></a>
+  <a href="https://linkedin.com/in/rodney-mbasu-bb354b267>linkedin</a>
   
     
 
