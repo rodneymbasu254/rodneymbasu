@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h3 align="center">⌨️ Jambo👋👋 Mbasu Rodney</h3>
+  <h3 align="center">⌨️ Jambo👋👋, I'M Mbasu Rodney</h3>
 </p>
   
 <p align="center">
